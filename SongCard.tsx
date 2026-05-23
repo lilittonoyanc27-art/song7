@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Song } from "../types";
+import { Song } from "./types";
 import { 
   Music, 
   Guitar, 
