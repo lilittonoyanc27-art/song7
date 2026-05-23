@@ -1,0 +1,6 @@
+{
+  "name": "Music Folders Player",
+  "description": "Музыкальный сборник с песнями по папкам, аудиоплеером и просмотром текстов песен.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
