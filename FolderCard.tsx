@@ -1,5 +1,5 @@
 import React from "react";
-import { Folder } from "../types";
+import { Folder } from "./types";
 import { 
   Guitar, 
   Music, 
