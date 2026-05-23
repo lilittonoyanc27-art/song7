@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { folders } from "./data";
 import { Folder } from "./types";
-import FolderCard from "./components/FolderCard";
-import SongCard from "./components/SongCard";
+import FolderCard from "./FolderCard";
+import SongCard from "./SongCard";
 import { 
   Music, 
   Guitar, 
